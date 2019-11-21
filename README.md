@@ -1,0 +1,2 @@
+# AzumaWP
+Azuma Coin WP
